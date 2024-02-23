@@ -6,3 +6,8 @@ permalink: LINKS/
 
 * [C pointers explained👉](https://www.youtube.com/watch?v=DplxIq0mc_Y) -- It is about pointers in C programming. It explains how pointers works in C programming.
 
+* [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) -- Learning about Types, advantages, disadvantages of file systems, file directories, and file allocation methods. It has deep explanation about file systems in OS
+
+* [Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/) -- Taking a deeper look into the types of directories in operating systems including the advantages, disadvantages, and use case of every single type of directory. It has deep explanation about directories in os.
+
+* [Should You Partition Your Hard Drive? The Pros and Cons](https://www.stellarinfo.com/article/should-you-partition-your-hard-drive-pros-and-cons.php#:~:text=Partitioning%20allows%20you%20to%20organize,partitions%20to%20access%20them%20swiftly.) -- Advantages and disadvantages of partitioning disks. It explain the pros and cons about disk partitions.
