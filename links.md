@@ -10,8 +10,12 @@ permalink: LINKS/
 
 * [Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/) -- Taking a deeper look into the types of directories in operating systems including the advantages, disadvantages, and use case of every single type of directory. It has deep explanation about directories in os.
 
-* [Should You Partition Your Hard Drive? The Pros and Cons](https://www.stellarinfo.com/article/should-you-partition-your-hard-drive-pros-and-cons.php#:~:text=Partitioning%20allows%20you%20to%20organize,partitions%20to%20access%20them%20swiftly.) -- Advantages and disadvantages of partitioning disks. It explain the pros and cons about disk partitions.
+* [Should You Partition Your Hard Drive? The Pros and Cons](https://www.stellarinfo.com/article/should-you-partition-your-hard-drive-pros-and-cons.php/) -- Advantages and disadvantages of partitioning disks. It explain the pros and cons about disk partitions.
 
 * [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) -- Addressing in OS. It explains about the differences between logical and physical adressing
 
-* [Static and Dynamic Loading in Operating System](https://www.javatpoint.com/static-and-dynamic-loading-in-operating-system#:~:text=Dynamic%20loading%20refers%20to%20the,the%20need%20for%20additional%20software.) -- Dynamic and static loading. It explains why we use dynamic loading
+* [Static and Dynamic Loading in Operating System](https://www.javatpoint.com/static-and-dynamic-loading-in-operating-system/) -- Dynamic and static loading. It explains why we use dynamic loading
+
+* [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory/) -- An in-depth explanation of virtual memory. It delves into the complexities of how computers efficiently manage limited physical memory resources to handle larger or multiple programs simultaneously
+
+* [What is Demand Paging in Operating System?](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) -- a comprehensive overview of Demand Paging. It delves into the intricacies of how operating systems optimize memory usage

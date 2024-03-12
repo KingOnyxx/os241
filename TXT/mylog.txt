@@ -1,4 +1,11 @@
-ZCZC W04 120 L14 Assignment #04
+ZCZC W05 120 L15 Assignment #05
+ZCZC W05 5 L41 mylog.txt related
+ZCZC W05 5 L42 mypubkey.txt related
+ZCZC W05 5 L43 myrank.txt related
+ZCZC W05 5 L44 myscript.sh related
+ZCZC W05 100 L02 Classroom
+ZCZC W05 100 L02 Classroom
+ZCZC W05 120 L14 Assignment #04
 ZCZC W04 5 L41 mylog.txt related
 ZCZC W04 5 L42 mypubkey.txt related
 ZCZC W04 5 L43 myrank.txt related
