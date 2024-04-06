@@ -19,3 +19,7 @@ permalink: LINKS/
 * [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory/) -- An in-depth explanation of virtual memory. It delves into the complexities of how computers efficiently manage limited physical memory resources to handle larger or multiple programs simultaneously
 
 * [What is Demand Paging in Operating System?](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) -- a comprehensive overview of Demand Paging. It delves into the intricacies of how operating systems optimize memory usage
+
+* [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm) -- It covers various aspects of processes in an operating system. It provides a comprehensive understanding of how processes work in an operating system
+
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) -- It is about fork() system call. It provides a comprehensive understanding of how the fork() system call works in C.
