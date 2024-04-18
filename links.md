@@ -23,3 +23,7 @@ permalink: LINKS/
 * [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm) -- It covers various aspects of processes in an operating system. It provides a comprehensive understanding of how processes work in an operating system
 
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) -- It is about fork() system call. It provides a comprehensive understanding of how the fork() system call works in C.
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) -- It is about process synchronization. The link discusses the problem of race conditions and other synchronization issues in a concurrent system, and how various synchronization techniques such as semaphores, monitors, and critical sections are used to resolve these issues.
+
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) -- It is about Deadlock in Operating Systems. It provides examples of deadlocks and discusses the necessary conditions for a deadlock to occur.

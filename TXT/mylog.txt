@@ -1,3 +1,10 @@
+ZCZC W07 100 L32 YouTube: watching OS related topics, etc
+ZCZC W07 120 L17 Assignment #07
+ZCZC W07 5 L41 mylog.txt related
+ZCZC W07 5 L42 mypubkey.txt related
+ZCZC W07 5 L43 myrank.txt related
+ZCZC W07 5 L44 myscript.sh related
+ZCZC W07 100 L02 Classroom
 ZCZC W06 100 L32 YouTube: watching OS related topics, etc
 ZCZC W06 120 L16 Assignment #06
 ZCZC W06 5 L41 mylog.txt related
